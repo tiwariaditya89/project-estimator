@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: add global styles */
+body {
+  @apply bg-gray-50;
+}
